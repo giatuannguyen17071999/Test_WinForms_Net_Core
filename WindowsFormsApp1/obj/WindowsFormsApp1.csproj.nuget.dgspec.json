@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lockh\\Desktop\\QL_Vat_Lieu_Xay_Dung\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lockh\\Desktop\\QL_Vat_Lieu_Xay_Dung\\WindowsFormsApp1\\WindowsFormsApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lockh\\Desktop\\QL_Vat_Lieu_Xay_Dung\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "projectName": "WindowsFormsApp1",
+        "projectPath": "C:\\Users\\lockh\\Desktop\\QL_Vat_Lieu_Xay_Dung\\WindowsFormsApp1\\WindowsFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\lockh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lockh\\Desktop\\QL_Vat_Lieu_Xay_Dung\\WindowsFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lockh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/R3Aqgd8FAnIZeZM7MYfZCD4bXsfhtUCZ2e3YrQjFCJk65axLUF/api": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "DevExpress.AspNetCore.Common": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Charts": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Charts.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.CodeParser": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Data": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.DataAccess": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.DataDesktop": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Dialogs.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Images": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Mvvm": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Office.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Pdf.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.PivotGrid.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Printing.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.RichEdit.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.RichEdit.Export": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Sparkline.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Spreadsheet.Core": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Win": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Bars": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Charts": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Dashboard": {
+              "target": "Package",
+              "version": "[20.1.4, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Diagram": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Dialogs": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Editors": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Layout": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.Reporting": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "DevExpress.WindowsDesktop.Win.SchedulerReporting": {
+              "target": "Package",
+              "version": "[20.1.4-ctp, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0-preview.6.20305.6, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_Vat_Lieu_Xay_DungModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__EFMigrationsHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Announcement">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="450" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AppUser" Relationship="Self.FK_Announcements_AppUsers_UserId" FromRole="Announcements" ToRole="AppUsers" />
+    <NavigationProperty Name="AnnouncementUsers" Relationship="Self.FK_AnnouncementUsers_Announcements_AnnouncementId" FromRole="Announcements" ToRole="AnnouncementUsers" />
+  </EntityType>
+  <EntityType Name="AnnouncementUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="HasRead" Type="Boolean" />
+    <Property Name="AnnouncementId" Type="String" MaxLength="450" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Announcement" Relationship="Self.FK_AnnouncementUsers_Announcements_AnnouncementId" FromRole="AnnouncementUsers" ToRole="Announcements" />
+  </EntityType>
+  <EntityType Name="AppRoleClaim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleId" Type="Guid" Nullable="false" />
+    <Property Name="ClaimType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ClaimValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="AppRole">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NormalizedName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ConcurrencyStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Permissions" Relationship="Self.FK_Permissions_AppRoles_RoleId" FromRole="AppRoles" ToRole="Permissions" />
+  </EntityType>
+  <EntityType Name="AppUserClaim">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="ClaimType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ClaimValue" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="AppUserLogin">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="LoginProvider" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ProviderKey" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ProviderDisplayName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="AppUserRole">
+    <Key>
+      <PropertyRef Name="UserId" />
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="RoleId" Type="Guid" Nullable="false" />
+  </EntityType>
+  <EntityType Name="AppUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NormalizedUserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="NormalizedEmail" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="EmailConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SecurityStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ConcurrencyStamp" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="PhoneNumberConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="TwoFactorEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="LockoutEnd" Type="DateTimeOffset" Precision="7" />
+    <Property Name="LockoutEnabled" Type="Boolean" Nullable="false" />
+    <Property Name="AccessFailedCount" Type="Int32" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="BirthDay" Type="DateTime" Precision="7" />
+    <Property Name="Avatar" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Announcements" Relationship="Self.FK_Announcements_AppUsers_UserId" FromRole="AppUsers" ToRole="Announcements" />
+    <NavigationProperty Name="Bills" Relationship="Self.FK_Bills_AppUsers_CustomerId" FromRole="AppUsers" ToRole="Bills" />
+  </EntityType>
+  <EntityType Name="AppUserToken">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="LoginProvider" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Name" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Value" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="BillDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BillId" Type="Int32" Nullable="false" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="SizeId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bill" Relationship="Self.FK_BillDetails_Bills_BillId" FromRole="BillDetails" ToRole="Bills" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_BillDetails_Products_ProductId" FromRole="BillDetails" ToRole="Products" />
+    <NavigationProperty Name="Size" Relationship="Self.FK_BillDetails_Sizes_SizeId" FromRole="BillDetails" ToRole="Sizes" />
+  </EntityType>
+  <EntityType Name="Bill">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CustomerName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CustomerAddress" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CustomerMobile" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CustomerMessage" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PaymentMethod" Type="Int32" Nullable="false" />
+    <Property Name="BillStatus" Type="Int32" Nullable="false" />
+    <Property Name="CustomerId" Type="Guid" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+    <NavigationProperty Name="AppUser" Relationship="Self.FK_Bills_AppUsers_CustomerId" FromRole="Bills" ToRole="AppUsers" />
+    <NavigationProperty Name="BillDetails" Relationship="Self.FK_BillDetails_Bills_BillId" FromRole="Bills" ToRole="BillDetails" />
+  </EntityType>
+  <EntityType Name="ContactDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Website" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Other" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Lat" Type="Double" />
+    <Property Name="Lng" Type="Double" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Feedback">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Message" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+  </EntityType>
+  <EntityType Name="Footer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Function">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="128" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="URL" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ParentId" Type="String" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="IconCss" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="SortOrder" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Permissions" Relationship="Self.FK_Permissions_Functions_FunctionId" FromRole="Functions" ToRole="Permissions" />
+  </EntityType>
+  <EntityType Name="Language">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="450" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="IsDefault" Type="Boolean" Nullable="false" />
+    <Property Name="Resources" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Page">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Alias" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Permission">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleId" Type="Guid" Nullable="false" />
+    <Property Name="FunctionId" Type="String" MaxLength="128" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CanCreate" Type="Boolean" Nullable="false" />
+    <Property Name="CanRead" Type="Boolean" Nullable="false" />
+    <Property Name="CanUpdate" Type="Boolean" Nullable="false" />
+    <Property Name="CanDelete" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="AppRole" Relationship="Self.FK_Permissions_AppRoles_RoleId" FromRole="Permissions" ToRole="AppRoles" />
+    <NavigationProperty Name="Function" Relationship="Self.FK_Permissions_Functions_FunctionId" FromRole="Permissions" ToRole="Functions" />
+  </EntityType>
+  <EntityType Name="ProductCategory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ParentId" Type="Int32" />
+    <Property Name="HomeOrder" Type="Int32" />
+    <Property Name="Image" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="HomeFlag" Type="Boolean" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="SeoPageTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SeoAlias" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="SeoKeywords" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SeoDescription" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SortOrder" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Products_ProductCategories_CategoryId" FromRole="ProductCategories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="ProductImage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Path" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Caption" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_ProductImages_Products_ProductId" FromRole="ProductImages" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="ProductQuantity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="SizeId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_ProductQuantities_Products_ProductId" FromRole="ProductQuantities" ToRole="Products" />
+    <NavigationProperty Name="Size" Relationship="Self.FK_ProductQuantities_Sizes_SizeId" FromRole="ProductQuantities" ToRole="Sizes" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CategoryId" Type="Int32" Nullable="false" />
+    <Property Name="Image" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="PromotionPrice" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="OriginalPrice" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="HomeFlag" Type="Boolean" />
+    <Property Name="HotFlag" Type="Boolean" Nullable="false" />
+    <Property Name="ViewCount" Type="Int32" />
+    <Property Name="Tags" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Unit" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DateCreated" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="DateModified" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="SeoPageTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="SeoAlias" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="SeoKeywords" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="SeoDescription" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BillDetails" Relationship="Self.FK_BillDetails_Products_ProductId" FromRole="Products" ToRole="BillDetails" />
+    <NavigationProperty Name="ProductCategory" Relationship="Self.FK_Products_ProductCategories_CategoryId" FromRole="Products" ToRole="ProductCategories" />
+    <NavigationProperty Name="ProductImages" Relationship="Self.FK_ProductImages_Products_ProductId" FromRole="Products" ToRole="ProductImages" />
+    <NavigationProperty Name="ProductQuantities" Relationship="Self.FK_ProductQuantities_Products_ProductId" FromRole="Products" ToRole="ProductQuantities" />
+    <NavigationProperty Name="Tags1" Relationship="Self.FK_Tags_Products_ProductId" FromRole="Products" ToRole="Tags" />
+    <NavigationProperty Name="WholePrices" Relationship="Self.FK_WholePrices_Products_ProductId" FromRole="Products" ToRole="WholePrices" />
+  </EntityType>
+  <EntityType Name="Size">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BillDetails" Relationship="Self.FK_BillDetails_Sizes_SizeId" FromRole="Sizes" ToRole="BillDetails" />
+    <NavigationProperty Name="ProductQuantities" Relationship="Self.FK_ProductQuantities_Sizes_SizeId" FromRole="Sizes" ToRole="ProductQuantities" />
+  </EntityType>
+  <EntityType Name="Slide">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="Image" Type="String" MaxLength="250" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Url" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+    <Property Name="DisplayOrder" Type="Int32" />
+    <Property Name="Status" Type="Boolean" Nullable="false" />
+    <Property Name="Content" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="GroupAlias" Type="String" MaxLength="25" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="SystemConfig">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Value1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Value2" Type="Int32" />
+    <Property Name="Value3" Type="Boolean" />
+    <Property Name="Value4" Type="DateTime" Precision="7" />
+    <Property Name="Value5" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tag">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_Tags_Products_ProductId" FromRole="Tags" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="WholePrice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProductId" Type="Int32" Nullable="false" />
+    <Property Name="FromQuantity" Type="Int32" Nullable="false" />
+    <Property Name="ToQuantity" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" Nullable="false" />
+    <NavigationProperty Name="Product" Relationship="Self.FK_WholePrices_Products_ProductId" FromRole="WholePrices" ToRole="Products" />
+  </EntityType>
+  <Association Name="FK_Announcements_AppUsers_UserId">
+    <End Role="AppUsers" Type="Self.AppUser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Announcements" Type="Self.Announcement" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AppUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Announcements">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AnnouncementUsers_Announcements_AnnouncementId">
+    <End Role="Announcements" Type="Self.Announcement" Multiplicity="0..1" />
+    <End Role="AnnouncementUsers" Type="Self.AnnouncementUser" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Announcements">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="AnnouncementUsers">
+        <PropertyRef Name="AnnouncementId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Permissions_AppRoles_RoleId">
+    <End Role="AppRoles" Type="Self.AppRole" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Permissions" Type="Self.Permission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AppRoles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Permissions">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Bills_AppUsers_CustomerId">
+    <End Role="AppUsers" Type="Self.AppUser" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Bills" Type="Self.Bill" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AppUsers">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Bills">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BillDetails_Bills_BillId">
+    <End Role="Bills" Type="Self.Bill" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BillDetails" Type="Self.BillDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bills">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BillDetails">
+        <PropertyRef Name="BillId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BillDetails_Products_ProductId">
+    <End Role="Products" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BillDetails" Type="Self.BillDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BillDetails">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BillDetails_Sizes_SizeId">
+    <End Role="Sizes" Type="Self.Size" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BillDetails" Type="Self.BillDetail" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sizes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="BillDetails">
+        <PropertyRef Name="SizeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Permissions_Functions_FunctionId">
+    <End Role="Functions" Type="Self.Function" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Permissions" Type="Self.Permission" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Functions">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Permissions">
+        <PropertyRef Name="FunctionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_ProductCategories_CategoryId">
+    <End Role="ProductCategories" Type="Self.ProductCategory" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ProductCategories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductImages_Products_ProductId">
+    <End Role="Products" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductImages" Type="Self.ProductImage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductImages">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductQuantities_Products_ProductId">
+    <End Role="Products" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductQuantities" Type="Self.ProductQuantity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductQuantities">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ProductQuantities_Sizes_SizeId">
+    <End Role="Sizes" Type="Self.Size" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ProductQuantities" Type="Self.ProductQuantity" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sizes">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProductQuantities">
+        <PropertyRef Name="SizeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tags_Products_ProductId">
+    <End Role="Products" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Tags" Type="Self.Tag" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tags">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_WholePrices_Products_ProductId">
+    <End Role="Products" Type="Self.Product" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="WholePrices" Type="Self.WholePrice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="WholePrices">
+        <PropertyRef Name="ProductId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_Vat_Lieu_Xay_DungEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__EFMigrationsHistory" EntityType="Self.C__EFMigrationsHistory" />
+    <EntitySet Name="Announcements" EntityType="Self.Announcement" />
+    <EntitySet Name="AnnouncementUsers" EntityType="Self.AnnouncementUser" />
+    <EntitySet Name="AppRoleClaims" EntityType="Self.AppRoleClaim" />
+    <EntitySet Name="AppRoles" EntityType="Self.AppRole" />
+    <EntitySet Name="AppUserClaims" EntityType="Self.AppUserClaim" />
+    <EntitySet Name="AppUserLogins" EntityType="Self.AppUserLogin" />
+    <EntitySet Name="AppUserRoles" EntityType="Self.AppUserRole" />
+    <EntitySet Name="AppUsers" EntityType="Self.AppUser" />
+    <EntitySet Name="AppUserTokens" EntityType="Self.AppUserToken" />
+    <EntitySet Name="BillDetails" EntityType="Self.BillDetail" />
+    <EntitySet Name="Bills" EntityType="Self.Bill" />
+    <EntitySet Name="ContactDetails" EntityType="Self.ContactDetail" />
+    <EntitySet Name="Feedbacks" EntityType="Self.Feedback" />
+    <EntitySet Name="Footers" EntityType="Self.Footer" />
+    <EntitySet Name="Functions" EntityType="Self.Function" />
+    <EntitySet Name="Languages" EntityType="Self.Language" />
+    <EntitySet Name="Pages" EntityType="Self.Page" />
+    <EntitySet Name="Permissions" EntityType="Self.Permission" />
+    <EntitySet Name="ProductCategories" EntityType="Self.ProductCategory" />
+    <EntitySet Name="ProductImages" EntityType="Self.ProductImage" />
+    <EntitySet Name="ProductQuantities" EntityType="Self.ProductQuantity" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Sizes" EntityType="Self.Size" />
+    <EntitySet Name="Slides" EntityType="Self.Slide" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="SystemConfigs" EntityType="Self.SystemConfig" />
+    <EntitySet Name="Tags" EntityType="Self.Tag" />
+    <EntitySet Name="WholePrices" EntityType="Self.WholePrice" />
+    <AssociationSet Name="FK_Announcements_AppUsers_UserId" Association="Self.FK_Announcements_AppUsers_UserId">
+      <End Role="AppUsers" EntitySet="AppUsers" />
+      <End Role="Announcements" EntitySet="Announcements" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AnnouncementUsers_Announcements_AnnouncementId" Association="Self.FK_AnnouncementUsers_Announcements_AnnouncementId">
+      <End Role="Announcements" EntitySet="Announcements" />
+      <End Role="AnnouncementUsers" EntitySet="AnnouncementUsers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Permissions_AppRoles_RoleId" Association="Self.FK_Permissions_AppRoles_RoleId">
+      <End Role="AppRoles" EntitySet="AppRoles" />
+      <End Role="Permissions" EntitySet="Permissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Bills_AppUsers_CustomerId" Association="Self.FK_Bills_AppUsers_CustomerId">
+      <End Role="AppUsers" EntitySet="AppUsers" />
+      <End Role="Bills" EntitySet="Bills" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BillDetails_Bills_BillId" Association="Self.FK_BillDetails_Bills_BillId">
+      <End Role="Bills" EntitySet="Bills" />
+      <End Role="BillDetails" EntitySet="BillDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BillDetails_Products_ProductId" Association="Self.FK_BillDetails_Products_ProductId">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="BillDetails" EntitySet="BillDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BillDetails_Sizes_SizeId" Association="Self.FK_BillDetails_Sizes_SizeId">
+      <End Role="Sizes" EntitySet="Sizes" />
+      <End Role="BillDetails" EntitySet="BillDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Permissions_Functions_FunctionId" Association="Self.FK_Permissions_Functions_FunctionId">
+      <End Role="Functions" EntitySet="Functions" />
+      <End Role="Permissions" EntitySet="Permissions" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_ProductCategories_CategoryId" Association="Self.FK_Products_ProductCategories_CategoryId">
+      <End Role="ProductCategories" EntitySet="ProductCategories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductImages_Products_ProductId" Association="Self.FK_ProductImages_Products_ProductId">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="ProductImages" EntitySet="ProductImages" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductQuantities_Products_ProductId" Association="Self.FK_ProductQuantities_Products_ProductId">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="ProductQuantities" EntitySet="ProductQuantities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ProductQuantities_Sizes_SizeId" Association="Self.FK_ProductQuantities_Sizes_SizeId">
+      <End Role="Sizes" EntitySet="Sizes" />
+      <End Role="ProductQuantities" EntitySet="ProductQuantities" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tags_Products_ProductId" Association="Self.FK_Tags_Products_ProductId">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="Tags" EntitySet="Tags" />
+    </AssociationSet>
+    <AssociationSet Name="FK_WholePrices_Products_ProductId" Association="Self.FK_WholePrices_Products_ProductId">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="WholePrices" EntitySet="WholePrices" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

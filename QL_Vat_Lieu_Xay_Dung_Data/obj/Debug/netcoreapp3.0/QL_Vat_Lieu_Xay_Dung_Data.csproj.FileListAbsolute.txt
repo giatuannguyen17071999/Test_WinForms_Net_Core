@@ -1,0 +1,15 @@
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.deps.json
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.runtimeconfig.json
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.runtimeconfig.dev.json
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.pdb
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Infrastructure.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Infrastructure.pdb
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.csprojAssemblyReference.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.AssemblyInfoInputs.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.AssemblyInfo.cs
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.csproj.CoreCompileInputs.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.csproj.CopyComplete
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.pdb
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Data\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Data.genruntimeconfig.cache

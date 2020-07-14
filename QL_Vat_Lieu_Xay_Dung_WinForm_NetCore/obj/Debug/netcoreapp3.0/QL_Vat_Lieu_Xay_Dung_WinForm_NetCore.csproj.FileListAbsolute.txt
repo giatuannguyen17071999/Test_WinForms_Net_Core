@@ -1,0 +1,457 @@
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.exe
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.deps.json
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.runtimeconfig.json
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.runtimeconfig.dev.json
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.pdb
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.AspNetCore.Common.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.AspNetCore.Core.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Data.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Office.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Printing.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Utils.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Utils.v20.1.UI.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Charts.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.CodeParser.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dashboard.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.DataAccess.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dialogs.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Images.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Map.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.DataModel.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.DataModel.EFCore.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.ViewModel.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraReports.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.SpellChecker.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Spreadsheet.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.TreeMap.v20.1.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraBars.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.BonusSkins.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.UI.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dashboard.v20.1.Win.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraDialogs.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraEditors.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGantt.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Presets.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Win.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGrid.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraLayout.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraMap.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPdfViewer.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.Reporting.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraSpellChecker.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraSpreadsheet.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraTreeMap.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraWizard.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Xpo.v20.1.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Localization.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Net.Http.Headers.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.Registration.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Management.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Reflection.Context.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill_BillDetailt.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmDanhMucHangHoa.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmHangHoa.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmKhachHang_NCC.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmListProduct.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmLogin.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmMain.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.resources
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.GenerateResource.cache
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.CopyComplete
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.dll
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.pdb
+C:\Users\giatu\OneDrive\Máy tính\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.genruntimeconfig.cache
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.exe
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.deps.json
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.runtimeconfig.json
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.runtimeconfig.dev.json
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.pdb
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.AspNetCore.Common.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.AspNetCore.Core.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Data.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Office.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Pdf.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Printing.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Utils.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Utils.v20.1.UI.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Charts.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.CodeParser.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dashboard.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.DataAccess.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Data.Desktop.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Diagram.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dialogs.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Images.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Map.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.DataModel.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.DataModel.EFCore.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Mvvm.v20.1.ViewModel.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraReports.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.RichEdit.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.RichEdit.v20.1.Export.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Sparkline.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.SpellChecker.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Spreadsheet.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.TreeMap.v20.1.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraBars.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.BonusSkins.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.UI.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Dashboard.v20.1.Win.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.DataAccess.v20.1.UI.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraDiagram.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraDialogs.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraEditors.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGantt.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Presets.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGauges.v20.1.Win.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraGrid.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraLayout.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraMap.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraNavBar.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPdfViewer.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraPrinting.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraRichEdit.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraScheduler.v20.1.Reporting.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraSpellChecker.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraSpreadsheet.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraTreeList.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraTreeMap.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.XtraWizard.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\DevExpress.Xpo.v20.1.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Antiforgery.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Localization.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.ObjectPool.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Extensions.WebEncoders.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Net.Http.Headers.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.Registration.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.FileSystem.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Management.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Private.ServiceModel.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Reflection.Context.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\de\DevExpress.Utils.v20.1.resources.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\es\DevExpress.Utils.v20.1.resources.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\System.IO.Ports.Native.so
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\System.IO.Ports.Native.so
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\System.IO.Ports.Native.so
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\System.IO.Ports.Native.dylib
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csprojAssemblyReference.cache
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill_BillDetailt.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmDanhMucHangHoa.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmHangHoa.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmKhachHang_NCC.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmListProduct.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmLogin.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmMain.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.resources
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.GenerateResource.cache
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.CopyComplete
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.dll
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.pdb
+D:\Inteligant_Program_Develop\Do_an\Code\Quan-ly-vat-lieu-xay-dung-C-\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.genruntimeconfig.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csprojAssemblyReference.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmBill_BillDetailt.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmDanhMucHangHoa.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmHangHoa.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmKhachHang_NCC.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmListProduct.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmLogin.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.frmMain.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.resources
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.GenerateResource.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore.csproj.CoreCompileInputs.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_WinForm_NetCore\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_WinFormApp.pdb

@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <RootNamespace>QL_Vat_Lieu_Xay_Dung_WinFormApp</RootNamespace>
+    <AssemblyName>QL_Vat_Lieu_Xay_Dung_WinFormApp</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.AspNetCore.Common" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Charts" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Charts.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.CodeParser" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Data" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.DataAccess" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.DataDesktop" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Dialogs.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Images" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Mvvm" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Office.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Pdf.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.PivotGrid.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Printing.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.RichEdit.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.RichEdit.Export" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Sparkline.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Spreadsheet.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Bars" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Charts" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Dashboard" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Diagram" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Dialogs" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Editors" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Layout" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Reporting" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.SchedulerReporting" Version="20.1.4-ctp" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="3.1.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\**\*.cs" />
+     <EmbeddedResource Include="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\**\*.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QL_Vat_Lieu_Xay_Dung_Data\QL_Vat_Lieu_Xay_Dung_Data.csproj" />
+    <ProjectReference Include="..\QL_Vat_Lieu_Xay_Dung_Data_EF\QL_Vat_Lieu_Xay_Dung_Data_EF.csproj" />
+    <ProjectReference Include="..\QL_Vat_Lieu_Xay_Dung_Infrastructure\QL_Vat_Lieu_Xay_Dung_Infrastructure.csproj" />
+    <ProjectReference Include="..\QL_Vat_Lieu_Xay_Dung_Services\QL_Vat_Lieu_Xay_Dung_Services.csproj" />
+    <ProjectReference Include="..\QL_Vat_Lieu_Xay_Dung_Utilities\QL_Vat_Lieu_Xay_Dung_Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

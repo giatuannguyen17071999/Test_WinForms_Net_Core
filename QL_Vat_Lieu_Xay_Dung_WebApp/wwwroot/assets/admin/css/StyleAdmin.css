@@ -1,0 +1,17 @@
+﻿body {
+}
+div.form-margin.form-group {
+    margin: 5px 0;
+    background-color: blue !important;
+}
+input#ddlCategoryIdM.form-control-category {
+    display: inline;
+    clear: both;
+    visibility: collapse;
+    margin: 0;
+    padding: 0;
+    height: 0px;
+}
+.combo {
+    width: 100%;
+}

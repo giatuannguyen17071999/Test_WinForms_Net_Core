@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmBill_BillDetailt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmDanhMucHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmKhachHang_NCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmListProduct.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

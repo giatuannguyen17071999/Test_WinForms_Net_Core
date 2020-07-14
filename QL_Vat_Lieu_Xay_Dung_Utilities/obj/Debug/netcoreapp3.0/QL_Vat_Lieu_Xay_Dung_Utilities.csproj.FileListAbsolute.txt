@@ -1,0 +1,8 @@
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.deps.json
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.pdb
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.AssemblyInfoInputs.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.AssemblyInfo.cs
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.csproj.CoreCompileInputs.cache
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.dll
+C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.pdb
