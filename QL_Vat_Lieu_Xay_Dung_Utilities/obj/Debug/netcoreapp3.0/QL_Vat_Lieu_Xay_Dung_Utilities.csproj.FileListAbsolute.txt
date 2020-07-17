@@ -6,3 +6,12 @@ C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\D
 C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.csproj.CoreCompileInputs.cache
 C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.dll
 C:\Users\lockh\Desktop\QL_Vat_Lieu_Xay_Dung\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.pdb
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.deps.json
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.dll
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\bin\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.pdb
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.csprojAssemblyReference.cache
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.AssemblyInfoInputs.cache
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.AssemblyInfo.cs
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.csproj.CoreCompileInputs.cache
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.dll
+C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\obj\Debug\netcoreapp3.0\QL_Vat_Lieu_Xay_Dung_Utilities.pdb

@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lockh\\.nuget\\packages\\": {}
+    "C:\\Users\\giatu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\giatu\\OneDrive\\Documents\\GitHub\\Test_WinForms_Net_Core\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
       "projectName": "QL_Vat_Lieu_Xay_Dung_Utilities",
-      "projectPath": "D:\\Test\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
-      "packagesPath": "C:\\Users\\lockh\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\QL_Vat_Lieu_Xay_Dung_Utilities\\obj\\",
+      "projectPath": "C:\\Users\\giatu\\OneDrive\\Documents\\GitHub\\Test_WinForms_Net_Core\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
+      "packagesPath": "C:\\Users\\giatu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\giatu\\OneDrive\\Documents\\GitHub\\Test_WinForms_Net_Core\\QL_Vat_Lieu_Xay_Dung_Utilities\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\lockh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\giatu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -28,8 +32,8 @@
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Inteligant_Program_Develop\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.devexpress.com/R3Aqgd8FAnIZeZM7MYfZCD4bXsfhtUCZ2e3YrQjFCJk65axLUF/api": {}
       },
@@ -56,6 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
