@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ms8G83/oQD0+/cRF4PCxoISi77l6UFkFsmIGoTKyAwUc4AZ2AlMOoGtzp7GsXe7gStIerPMwSbY8SQ3Z+v2YEA==",
+  "dgSpecHash": "qLMRk7pG65ICMRX4VJFWILruXl2pJFmn9urStnytOAg3nbRevgTziPg8gQwflFMi6s2zYve96UCWAKfV64L6/g==",
   "success": true,
-  "projectFilePath": "D:\\Test\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\giatu\\OneDrive\\Documents\\GitHub\\Test_WinForms_Net_Core\\QL_Vat_Lieu_Xay_Dung_Utilities\\QL_Vat_Lieu_Xay_Dung_Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giatu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
