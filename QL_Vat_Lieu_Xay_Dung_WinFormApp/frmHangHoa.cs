@@ -13,15 +13,9 @@ namespace QL_Vat_Lieu_Xay_Dung_WinFormApp
 {
     public partial class frmHangHoa : DevExpress.XtraEditors.XtraForm
     {
-
         public frmHangHoa()
         {
             InitializeComponent();
-        }
-
-        private void frmHangHoa_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

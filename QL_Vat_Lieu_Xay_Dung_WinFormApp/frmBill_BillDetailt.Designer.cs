@@ -31,6 +31,9 @@
             this.tablePanel1 = new DevExpress.Utils.Layout.TablePanel();
             this.panelInfor = new DevExpress.Utils.Layout.TablePanel();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.txtDonGia = new DevExpress.XtraEditors.TextEdit();
+            this.txtSoLuong = new DevExpress.XtraEditors.TextEdit();
+            this.txtMaCTHD = new DevExpress.XtraEditors.TextEdit();
             this.cbMaSP = new DevExpress.XtraEditors.ComboBoxEdit();
             this.lblMaCTHoaDon = new DevExpress.XtraEditors.LabelControl();
             this.lblMaSP = new DevExpress.XtraEditors.LabelControl();
@@ -62,14 +65,14 @@
             this.btnThemHD = new DevExpress.XtraEditors.SimpleButton();
             this.btnTimKiemHD = new DevExpress.XtraEditors.SimpleButton();
             this.gv_HoaDon = new System.Windows.Forms.DataGridView();
-            this.txtMaCTHD = new DevExpress.XtraEditors.TextEdit();
-            this.txtSoLuong = new DevExpress.XtraEditors.TextEdit();
-            this.txtDonGia = new DevExpress.XtraEditors.TextEdit();
             ((System.ComponentModel.ISupportInitialize)(this.tablePanel1)).BeginInit();
             this.tablePanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.panelInfor)).BeginInit();
             this.panelInfor.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtDonGia.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtSoLuong.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMaCTHD.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbMaSP.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gv_CTHoaDon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.stackPanel2)).BeginInit();
@@ -87,9 +90,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.stackPanel1)).BeginInit();
             this.stackPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gv_HoaDon)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtMaCTHD.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtSoLuong.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtDonGia.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // tablePanel1
@@ -148,6 +148,36 @@
             this.panelInfor.SetRow(this.panel2, 1);
             this.panel2.Size = new System.Drawing.Size(648, 125);
             this.panel2.TabIndex = 5;
+            // 
+            // txtDonGia
+            // 
+            this.txtDonGia.Location = new System.Drawing.Point(411, 74);
+            this.txtDonGia.Name = "txtDonGia";
+            this.txtDonGia.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDonGia.Properties.Appearance.Options.UseFont = true;
+            this.txtDonGia.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
+            this.txtDonGia.Size = new System.Drawing.Size(209, 24);
+            this.txtDonGia.TabIndex = 19;
+            // 
+            // txtSoLuong
+            // 
+            this.txtSoLuong.Location = new System.Drawing.Point(125, 77);
+            this.txtSoLuong.Name = "txtSoLuong";
+            this.txtSoLuong.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtSoLuong.Properties.Appearance.Options.UseFont = true;
+            this.txtSoLuong.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
+            this.txtSoLuong.Size = new System.Drawing.Size(195, 24);
+            this.txtSoLuong.TabIndex = 18;
+            // 
+            // txtMaCTHD
+            // 
+            this.txtMaCTHD.Location = new System.Drawing.Point(125, 20);
+            this.txtMaCTHD.Name = "txtMaCTHD";
+            this.txtMaCTHD.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtMaCTHD.Properties.Appearance.Options.UseFont = true;
+            this.txtMaCTHD.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
+            this.txtMaCTHD.Size = new System.Drawing.Size(195, 24);
+            this.txtMaCTHD.TabIndex = 17;
             // 
             // cbMaSP
             // 
@@ -263,7 +293,7 @@
             this.btnSuaCTHD.Appearance.Options.UseForeColor = true;
             this.btnSuaCTHD.Appearance.Options.UseTextOptions = true;
             this.btnSuaCTHD.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
-            this.btnSuaCTHD.ImageOptions.Image = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.publicfix_32x32;
+            this.btnSuaCTHD.ImageOptions.Image = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.edittask_32x32;
             this.btnSuaCTHD.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
             this.btnSuaCTHD.Location = new System.Drawing.Point(11, 77);
             this.btnSuaCTHD.Margin = new System.Windows.Forms.Padding(20, 3, 20, 3);
@@ -281,7 +311,7 @@
             this.btnXoaCTHD.Appearance.Options.UseForeColor = true;
             this.btnXoaCTHD.Appearance.Options.UseTextOptions = true;
             this.btnXoaCTHD.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
-            this.btnXoaCTHD.ImageOptions.Image = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.add_32x322;
+            this.btnXoaCTHD.ImageOptions.Image = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.deletetablerows_32x32;
             this.btnXoaCTHD.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
             this.btnXoaCTHD.Location = new System.Drawing.Point(10, 147);
             this.btnXoaCTHD.Margin = new System.Windows.Forms.Padding(20, 3, 20, 3);
@@ -299,8 +329,8 @@
             this.btnTimKiemCTHD.Appearance.Options.UseForeColor = true;
             this.btnTimKiemCTHD.Appearance.Options.UseTextOptions = true;
             this.btnTimKiemCTHD.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Near;
-            this.btnTimKiemCTHD.ImageOptions.Image = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.publicfix_32x32;
             this.btnTimKiemCTHD.ImageOptions.ImageToTextAlignment = DevExpress.XtraEditors.ImageAlignToText.LeftCenter;
+            this.btnTimKiemCTHD.ImageOptions.SvgImage = global::QL_Vat_Lieu_Xay_Dung_WinFormApp.Properties.Resources.actions_zoom;
             this.btnTimKiemCTHD.Location = new System.Drawing.Point(0, 221);
             this.btnTimKiemCTHD.Margin = new System.Windows.Forms.Padding(20, 3, 20, 3);
             this.btnTimKiemCTHD.Name = "btnTimKiemCTHD";
@@ -549,36 +579,6 @@
             this.gv_HoaDon.Size = new System.Drawing.Size(621, 549);
             this.gv_HoaDon.TabIndex = 1;
             // 
-            // txtMaCTHD
-            // 
-            this.txtMaCTHD.Location = new System.Drawing.Point(125, 20);
-            this.txtMaCTHD.Name = "txtMaCTHD";
-            this.txtMaCTHD.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtMaCTHD.Properties.Appearance.Options.UseFont = true;
-            this.txtMaCTHD.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.txtMaCTHD.Size = new System.Drawing.Size(195, 24);
-            this.txtMaCTHD.TabIndex = 17;
-            // 
-            // txtSoLuong
-            // 
-            this.txtSoLuong.Location = new System.Drawing.Point(125, 77);
-            this.txtSoLuong.Name = "txtSoLuong";
-            this.txtSoLuong.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtSoLuong.Properties.Appearance.Options.UseFont = true;
-            this.txtSoLuong.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.txtSoLuong.Size = new System.Drawing.Size(195, 24);
-            this.txtSoLuong.TabIndex = 18;
-            // 
-            // txtDonGia
-            // 
-            this.txtDonGia.Location = new System.Drawing.Point(411, 74);
-            this.txtDonGia.Name = "txtDonGia";
-            this.txtDonGia.Properties.Appearance.Font = new System.Drawing.Font("Tahoma", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDonGia.Properties.Appearance.Options.UseFont = true;
-            this.txtDonGia.Properties.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Style3D;
-            this.txtDonGia.Size = new System.Drawing.Size(209, 24);
-            this.txtDonGia.TabIndex = 19;
-            // 
             // frmBill_BillDetailt
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
@@ -593,6 +593,9 @@
             this.panelInfor.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.txtDonGia.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtSoLuong.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtMaCTHD.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cbMaSP.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gv_CTHoaDon)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.stackPanel2)).EndInit();
@@ -611,9 +614,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.stackPanel1)).EndInit();
             this.stackPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gv_HoaDon)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtMaCTHD.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtSoLuong.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtDonGia.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }

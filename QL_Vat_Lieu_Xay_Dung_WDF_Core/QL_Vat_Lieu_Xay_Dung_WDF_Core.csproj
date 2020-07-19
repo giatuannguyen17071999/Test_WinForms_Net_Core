@@ -1,0 +1,71 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DevExpress.AspNetCore.Common" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Charts" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Charts.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.CodeParser" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Data" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.DataAccess" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.DataDesktop" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Dialogs.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Images" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Mvvm" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Office.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Pdf.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.PivotGrid.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Printing.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.RichEdit.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.RichEdit.Export" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Sparkline.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Spreadsheet.Core" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Bars" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Charts" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Dashboard" Version="20.1.4" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Diagram" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Dialogs" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Editors" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Layout" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.Reporting" Version="20.1.4-ctp" />
+    <PackageReference Include="DevExpress.WindowsDesktop.Win.SchedulerReporting" Version="20.1.4-ctp" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="3.1.0" />
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.Drawing.Common" Version="5.0.0-preview.6.20305.6" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Data\QL_Vat_Lieu_Xay_Dung_Data.csproj" />
+    <ProjectReference Include="C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Data_EF\QL_Vat_Lieu_Xay_Dung_Data_EF.csproj" />
+    <ProjectReference Include="C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Infrastructure\QL_Vat_Lieu_Xay_Dung_Infrastructure.csproj" />
+    <ProjectReference Include="C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Services\QL_Vat_Lieu_Xay_Dung_Services.csproj" />
+    <ProjectReference Include="C:\Users\giatu\OneDrive\Documents\GitHub\Test_WinForms_Net_Core\QL_Vat_Lieu_Xay_Dung_Utilities\QL_Vat_Lieu_Xay_Dung_Utilities.csproj" />
+  </ItemGroup>
+  <!--<ItemGroup>
+    <Compile Include="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\**\*.cs" />
+     <EmbeddedResource Include="..\QL_Vat_Lieu_Xay_Dung_WinFormApp\**\*.resx" />
+  </ItemGroup>-->
+</Project>

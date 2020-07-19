@@ -490,7 +490,6 @@
             this.Controls.Add(this.tablePanel1);
             this.Name = "frmHangHoa";
             this.Text = "frmHangHoa";
-            this.Load += new System.EventHandler(this.frmHangHoa_Load);
             ((System.ComponentModel.ISupportInitialize)(this.cbMaDanhMucCha.Properties)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

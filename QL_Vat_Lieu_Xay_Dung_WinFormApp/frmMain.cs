@@ -16,5 +16,10 @@ namespace QL_Vat_Lieu_Xay_Dung_WinFormApp
         {
             InitializeComponent();
         }
+
+        private void btnDanhSachKhach_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
